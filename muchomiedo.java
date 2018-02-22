@@ -1,4 +1,4 @@
-import java.util.Scanner;
+﻿import java.util.Scanner;
 
 public class Ejercicio031 {
 
@@ -58,6 +58,6 @@ traduccion es '" + st.trim() + "'");
             System.out.println("¡Bah! " + st + " no es javalandes");
         }
 
-    }
-
+    }//clocreta :3
+	
 }
